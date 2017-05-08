@@ -1,0 +1,9 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: katas.aux
+The style file: apalike.bst
+I found no \citation commands---while reading file katas.aux
+Database file #1: refelences0007.bib
+I was expecting an "="---line 17 of file refelences0007.bib
+ : PUBLISHED 
+ :           BY="USA McGraw-Hill",
+I'm skipping whatever remains of this entry
+(There were 2 error messages)
